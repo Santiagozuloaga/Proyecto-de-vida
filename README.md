@@ -1,4 +1,5 @@
 📘 S.O.P. V. 2.0 - GUÍA DE USUARIO
+
 🎯 ¿QUÉ ES ESTE PROYECTO?
 Este es mi Portafolio Digital de Proyecto de Vida para la clase de Ética.
 Presento mi plan de vida usando la metáfora de un "Sistema Operativo Personal" (S.O.P.).
